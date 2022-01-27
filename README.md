@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/62906322/151292821-f7d3f412-f9de-463e-a238-b7ff97549164.png)
+![image](https://user-images.githubusercontent.com/62906322/151292930-4d397bfc-851b-4c0a-a49d-ada9b8fb0951.png)
 
 <h1 align="center"> Hello there! 👋 </h1>
 
