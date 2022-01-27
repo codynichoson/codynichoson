@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/62906322/151292610-72f9a518-3fc2-4342-bd83-995e0d4ee198.png)
+
 <h1 align="center"> Hello there! 👋 </h1>
 
 <p align="center"> I am a current MS in Robotics student at Northwestern University with a background in mechanical engineering. Feel free to check out my latest projects featuring perception, robotic manipulation, controls, SLAM, and tons of other awesome robotics stuff!  </p>
