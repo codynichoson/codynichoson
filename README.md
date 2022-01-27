@@ -1,6 +1,8 @@
-![image](https://user-images.githubusercontent.com/62906322/151292930-4d397bfc-851b-4c0a-a49d-ada9b8fb0951.png)
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/62906322/151292930-4d397bfc-851b-4c0a-a49d-ada9b8fb0951.png" />
+</p>
 
-<h1 align="center"> Hello there! 👋 </h1>
+<h1 align="center"> Welcome to my GitHub! </h1>
 
 <p align="center"> I am a current MS in Robotics student at Northwestern University with a background in mechanical engineering. Feel free to check out my latest projects featuring perception, robotic manipulation, controls, SLAM, and tons of other awesome robotics stuff!  </p>
 
