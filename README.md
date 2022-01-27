@@ -6,6 +6,22 @@
 
 <p align="center"> I am a current MS in Robotics student at Northwestern University with a background in mechanical engineering. Feel free to check out my latest projects featuring perception, robotic manipulation, controls, SLAM, and tons of other awesome robotics stuff!  </p>
 
+<p align="center">
+  <a href="https://codynichoson.com/" target="_blank">
+<!--     <img align="center" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"> -->
+    <img align="center" src="https://img.shields.io/badge/Website-green?style=flat-square&logo=Webflow&logoColor=white&link=https://codynichoson.com/">
+  </a>
+  <a href="mailto:codynichoson@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codynichoson@gmail.com">
+  </a>
+<a href="https://www.linkedin.com/in/codynichoson/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codynichoson/">
+  </a>
+  <a href="https://github.com/codynichoson" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/codynichoson">
+  </a>
+</p>
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=codynichoson&theme=midnight-purple&show_icons=true" />
 </p>
