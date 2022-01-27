@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hello there! 👋 </h1>
+
+<p align="center"> I am a current MS in Robotics student at Northwestern University with a background in mechanical engineering. Feel free to check out my latest projects featuring perception, robotic manipulation, controls, SLAM, and tons of other awesome robotics stuff!  </p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=codynichoson&theme=midnight-purple&show_icons=true" />
+</p>
 
 <!--
 **codynichoson/codynichoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
