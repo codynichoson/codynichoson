@@ -4,7 +4,7 @@
 
 <h1 align="center"> Welcome to my GitHub! </h1>
 
-<p align="center"> I am a current MS in Robotics student at Northwestern University with a background in mechanical engineering. Feel free to check out my latest projects featuring perception, robotic manipulation, controls, SLAM, and tons of other awesome robotics stuff!  </p>
+<p align="center"> I am a converted robotics software engineer with a background in mechanical engineering. Feel free to check out my past and present projects featuring perception, robotic manipulation, controls, SLAM, and a variety of other awesome robotics stuff!  </p>
 
 <p align="center">
   <a href="https://codynichoson.com/" target="_blank">
